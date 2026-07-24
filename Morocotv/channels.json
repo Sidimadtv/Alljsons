@@ -1,4 +1,6 @@
-[
+{
+  "categories": ["Moroccan", "News", "Sports", "General", "Entertainment", "Movies", "Music", "Kids", "Documentary", "Series"],
+  "channels": [
   {
     "name": "Al Ao",
     "type": "normal",
@@ -671,4 +673,4 @@
     "imageLink": "https://i.imgur.com/V7I0MVf.png",
     "category": "Series"
   }
-]
+]}
