@@ -1,5 +1,5 @@
 {
     "downloadlink": "https://github.com/BeamlakAschalew/Sidimadtv-MovStar/releases/download/v3.2.0/Sidimadtv-MovieStar-v2.5.0.apk",
-    "versionnumber": "2.5.0",
+    "versionnumber": "2.6.0",
     "changelog": "v2.5.0\n- Fixed play buttons for Live TV, M3U & MAC\n- Added Xtream Codes / m3u_plus URL support\n- Added MPV player option with refresh token & stay on top\n- Added grid/list view for channels\n- Fixed favorites persistence\n- Added export/import for M3U & MAC portals\n- Enlarged sidebar logo\n- Fixed saved portals dialog layout\n- Cached portal API path for faster reconnection"
 }
